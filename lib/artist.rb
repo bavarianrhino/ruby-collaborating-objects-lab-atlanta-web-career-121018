@@ -1,4 +1,5 @@
 
+# Large part of code below was used by originator @seanoughton at repl.it.
 # The Artist class keeps track of its own Song instances in an array.
 # All Artists are created with an empty array of Songs.
 # The Artist can #add_song to its @songs array when that method is called.

@@ -1,4 +1,5 @@
 
+# Large part of code below was used by originator @seanoughton at repl.it.
 # The Song class can instantiate Songs with a @title. The Song class can assign an Artist instance to its @artist instance variable.
 # The @artist variable assigned must be from the Artist class, not just a String.
 # I can define a method within the Song class to turn a String into an Artist class.

@@ -1,5 +1,5 @@
 
-
+# Large part of code below was used by originator @seanoughton at repl.it.
 # The MP3Importer class finds a database of MP3 file names and parses the names of artists and songs from those files.
 # This class works with Strings.
 # It can send the Strings to the appropriate Artist/Song classes to make them into dynamic objects.
